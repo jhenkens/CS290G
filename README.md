@@ -4,3 +4,5 @@ Work in progress.
 
 In order for proper function, make sure that you clone to a directory that does not have spaces in its absolute path.
 This is not my bug (as far as I know), but an XCode bug, where the header search path wont work if $(SRC_ROOT) contains spaces.
+
+Depends on jhenkens/CS290GECC and jhenkens/RNCryptor, which both need to be cloned to the same root dir.
